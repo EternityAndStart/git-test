@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello summer!");
         System.out.println("hello everyone~");
         System.out.println("hello programmer");
+        System.out.println("master test");
     }
 }
