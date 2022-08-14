@@ -1,0 +1,11 @@
+package com.itboy.git;
+
+/**
+ * @author shkstart
+ * @create 2022-08-14 8:50
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello,git!");
+    }
+}
